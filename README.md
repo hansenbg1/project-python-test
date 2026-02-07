@@ -6,7 +6,8 @@ Our first Python project test
 ## Functionalities
 ### Subtitulo 1
 - Item a
-- Item b
+- Item c
 
-
+# Subtitulo 2
+- Item 1
 
