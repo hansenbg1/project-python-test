@@ -1,0 +1,5 @@
+outs:
+- md5: 87e3d08229fcce986a45e9e7b8e6305e
+  size: 1649
+  hash: md5
+  path: project.zip
